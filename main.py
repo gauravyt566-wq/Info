@@ -9,10 +9,10 @@ from telegram.ext import (ApplicationBuilder, CommandHandler, MessageHandler,
                           CallbackQueryHandler, ContextTypes, filters)
 
 # Bot config
-BOT_TOKEN = "Bot Token "
-ADMIN_ID = 7072631107
-FORCE_JOIN_CHANNEL = "testv3c"
-DB_PATH = "user_data.db"
+BOT_TOKEN = "7919666329:AAEvMyy2DAxxBMYi_-WybpgI0siy0LG_ZbQ"
+ADMIN_ID = 7704212317
+FORCE_JOIN_CHANNEL = "@AnnounChannell"
+DB_PATH = "mongodb+srv://gauravyt342:gauravyt342@cluster0.knzww13.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 BOT_CREATED_DATE = "03.07.2025"
 
 # Logging
@@ -23,7 +23,7 @@ user_state = {}
 
 TRIAL_MINUTES = 30
 PREMIUM_DAYS = 30
-BASE_URL = "Dm @zgodbro for api "
+BASE_URL = "https://Numberinfo.xo.je/api.php?number=91"
 
 # --- DB Functions ---
 def get_user(user_id):
